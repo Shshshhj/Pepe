@@ -25,7 +25,7 @@ hachoir
 heroku3
 html_telegraph_poster
 htmlement
-httplib2==0.15.0
+httplib2==0.18.0
 humanize
 hurry.filesize
 jikanpy
